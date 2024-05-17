@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/weatherio.github.io/static/css/main.6714c591.css",
-    "main.js": "/weatherio.github.io/static/js/main.3d39b12b.js",
+    "main.js": "/weatherio.github.io/static/js/main.801c1177.js",
     "static/js/453.bc3ef51f.chunk.js": "/weatherio.github.io/static/js/453.bc3ef51f.chunk.js",
     "static/media/NewYork.ttf": "/weatherio.github.io/static/media/NewYork.3a1644fe51b3464b26eb.ttf",
     "index.html": "/weatherio.github.io/index.html",
     "main.6714c591.css.map": "/weatherio.github.io/static/css/main.6714c591.css.map",
-    "main.3d39b12b.js.map": "/weatherio.github.io/static/js/main.3d39b12b.js.map",
+    "main.801c1177.js.map": "/weatherio.github.io/static/js/main.801c1177.js.map",
     "453.bc3ef51f.chunk.js.map": "/weatherio.github.io/static/js/453.bc3ef51f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6714c591.css",
-    "static/js/main.3d39b12b.js"
+    "static/js/main.801c1177.js"
   ]
 }
