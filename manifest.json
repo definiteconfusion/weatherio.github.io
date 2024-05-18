@@ -1,6 +1,6 @@
 {
-  "short_name": "WeathIO",
-  "name": "Simple Weather Application",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#28A5FF",
-  "background_color": "#37414E"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
