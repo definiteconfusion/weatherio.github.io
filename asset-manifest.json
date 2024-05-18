@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/weatherio.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/weatherio.github.io/static/js/main.c3e570ee.js",
+    "main.css": "/weatherio.github.io/static/css/main.c80a82a7.css",
+    "main.js": "/weatherio.github.io/static/js/main.8cc83a75.js",
     "static/js/453.bc3ef51f.chunk.js": "/weatherio.github.io/static/js/453.bc3ef51f.chunk.js",
-    "static/media/logo.svg": "/weatherio.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/NewYork.ttf": "/weatherio.github.io/static/media/NewYork.3a1644fe51b3464b26eb.ttf",
     "index.html": "/weatherio.github.io/index.html",
-    "main.f855e6bc.css.map": "/weatherio.github.io/static/css/main.f855e6bc.css.map",
-    "main.c3e570ee.js.map": "/weatherio.github.io/static/js/main.c3e570ee.js.map",
+    "main.c80a82a7.css.map": "/weatherio.github.io/static/css/main.c80a82a7.css.map",
+    "main.8cc83a75.js.map": "/weatherio.github.io/static/js/main.8cc83a75.js.map",
     "453.bc3ef51f.chunk.js.map": "/weatherio.github.io/static/js/453.bc3ef51f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c3e570ee.js"
+    "static/css/main.c80a82a7.css",
+    "static/js/main.8cc83a75.js"
   ]
 }
